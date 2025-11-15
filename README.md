@@ -61,7 +61,3 @@ This project is free to use and modify for learning or production.
 * Integrate into a GUI application.
 * Add entropy-based password scoring.
 * Provide password generation.
-
----
-
-If you'd like, I can also create a **PDF**, **DOCX**, or **GitHub-ready version** of this README!
